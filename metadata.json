@@ -1,0 +1,6 @@
+{
+  "name": "ART BY MISHAL — Contemporary Painter & Calligrapher",
+  "description": "Premium digital art gallery and portfolio of painter and calligrapher Mishal. Features an editorial printed monograph broadsheet, museum archival plates, Pakistani Rupee (PKR) pricing, studio admin manager, and bespoke commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
